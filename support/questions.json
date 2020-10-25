@@ -1,0 +1,63 @@
+[
+  {
+    "question": "Which of the following languages is more suited to a structured program?",
+    "options": [
+      "A. PL/1",
+      "B. FORTRAN",
+      "C. BASIC",
+      "D. PASCAL"
+    ],
+    "answer": "D. PASCAL"
+  },
+  {
+    "question": "\tThe brain of any computer system is",
+    "options": [
+      "A. ALU",
+      "B. Memory",
+      "C. CPU",
+      "D. All the above"
+    ],
+    "answer": "C. CPU"
+  },
+  {
+    "question": "What difference does the 5th generation computer have from other generation computers?",
+    "options": [
+      "A. Technological advancement",
+      "B. Scientific code",
+      "C. Object Oriented Programming",
+      "D. All of the above"
+    ],
+    "answer": "A. Technological advancement"
+  },
+  {
+    "question": "Which of the following computer language is used for artificial intelligence?",
+    "options": [
+      "A. FORTRAN",
+      "B. PROLOG",
+      "C. C",
+      "D. COBOL"
+    ],
+    "answer": "B. PROLOG"
+  },
+  {
+    "question": "The tracks on a disk which can be accessed without repositioning the R/W heads is",
+    "options": [
+      "A. Surface",
+      "B. Cylinder",
+      "C. Cluster",
+      "D. All of the above"
+    ],
+    "answer": "B. Cylinder"
+  },
+  {
+    "question": "\tA section of code to which control is transferred when a processor is interrupted is known as",
+    "options": [
+      "A. M",
+      "B. SVC",
+      "C. IP",
+      "D. MDR"
+    ],
+    "answer": "A. M"
+  }
+  
+]
